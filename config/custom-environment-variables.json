@@ -1,0 +1,5 @@
+{
+    "This is an environment variable that will be set in the production server. NEVER save you passwords in the ": "config files",
+    "password": "vidly_password"
+}
+
